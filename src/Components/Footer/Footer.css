@@ -1,0 +1,48 @@
+/* General footer styles */
+
+[lang="ar"] .pageRTL {
+  direction: rtl;
+}
+
+.footer {
+  position: relative;
+  z-index: 10;
+}
+
+/* Dark Mode Footer */
+.dark-mode-footer {
+  color: #fff;
+}
+
+.dark-mode-border {
+  border-color: rgba(255, 255, 255, 0.815);
+}
+
+/* Light Mode Footer */
+.light-mode-footer {
+  color: #e0e0e0;
+}
+
+.light-mode-border {
+  border-color: rgb(245, 245, 245);
+}
+
+/* Button styles */
+.btn-light {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-dark {
+  background-color: #495057;
+  color: #fff;
+}
+
+/* Optional: Icon color */
+.text-dark {
+  color: #000;
+}
+
+.text-light {
+  color: #fff;
+}

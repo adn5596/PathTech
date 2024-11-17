@@ -1,0 +1,103 @@
+{
+  "lang": "lang",
+  "search": "search",
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "solutions": "Solutions",
+    "services": "Services",
+    "strategy": "Strategy",
+    "contact": "Contact Us"
+  },
+  "count": {
+    "count1": "Experience in Saudi Market",
+    "count2": "Successful Project",
+    "count3": "Satisfied Customer"
+  },
+  "hero": {
+    "h1": " Welcome To PathTECH",
+    "title": "Empowering Your Business with Technology",
+    "title2": "Cutting-edge solutions in Datacenter & Networking, Security Systems … and more",
+    "follow": "Follow Us"
+  },
+  "about2": {
+    "AboutPathTECH": " PathTECH",
+    "snip1": "PathTECH is a leading technical service provider in Riyadh, Saudi Arabia, with a legacy of over 25 years of experience, delivering advanced solutions and services nationwide.",
+    "snip2": " PathTECH is a System Integrator for many leading global vendors and cooperates with a long list of partners to provide many technical solutions and services such as",
+    "li1": " Design & Technical Proposal",
+    "li2": " Supply & Installation",
+    "li3": " Maintenance Contracts",
+    "li4": " Tenders & Bids"
+  },
+  "solution": {
+    "OurSolutions": "Our Solutions",
+    "title": "Explore our comprehensive range of technical services tailored to meet your business needs and exceed expectations.",
+    "sol1": "Datacenter & Networking",
+    "sol2": "Video Conference Systems",
+    "sol3": "Security Solutions",
+    "sol4": "Low Current Systems",
+    "detailsol1": "PathTECH Data Center & Networking solutions provide robust infrastructure that ensures optimal performance and reliability for your operations. From data management to network security, we tailor solutions to meet your specific needs and scale alongside your business growth.",
+    "detailsol2": "Empower your communication and collaboration with our Video Conference Systems. Whether connecting remote teams or hosting virtual events, our systems offer high-quality audio-visual experiences, enhancing productivity and fostering connectivity.",
+    "detailsol3": "PathTECH Security Solutions arm your business with the latest technologies to safeguard your valuable assets. From access control systems to cybersecurity measures, we design comprehensive security solutions to mitigate risks and ensure business continuity. PathTech offers the latest technology that is recognized with AI-powered analytical security systems for large-scale projects, in collaboration with leading international technology vendors",
+    "detailsol4": "As a top technology partner in our region, PathTECH excels in providing comprehensive low-current solutions for prestigious projects. Our expertise in cutting-edge technologies and commitment to high-quality implementation set us apart. PathTECH delivers tailored solutions that meet the highest standards of excellence. Our partnership with top-tier technology Companies who own the highest reputation for reliability makes us the preferred choice for organizations seeking quality results."
+  },
+  "solutionn": {
+    "OurSolutions": "Our Solutions",
+    "title": "Explore our comprehensive range of technical services tailored to meet your business needs and exceed expectations.",
+    "sol1": "Datacenter & Networking",
+    "sol2": "Video Conference Systems",
+    "sol3": "Security Solutions",
+    "sol4": "Low Current Systems",
+    "detailsol1": "PathTECH Data Center & Networking solutions provide robust infrastructure that ensures optimal performance and reliability for your operations. From data management to network security, we tailor solutions to meet your specific needs and scale alongside your business growth.",
+    "detailsol2": "Empower your communication and collaboration with our Video Conference Systems. Whether connecting remote teams or hosting virtual events, our systems offer high-quality audio-visual experiences, enhancing productivity and fostering connectivity.",
+    "detailsol3": "PathTECH Security Solutions arm your business with the latest technologies to safeguard your valuable assets. From access control systems to cybersecurity measures, we design comprehensive security solutions to mitigate risks and ensure business continuity. PathTech offers the latest technology that is recognized with AI-powered analytical security systems for large-scale projects, in collaboration with leading international technology vendors",
+    "detailsol4": "As a top technology partner in our region, PathTECH excels in providing comprehensive low-current solutions for prestigious projects. Our expertise in cutting-edge technologies and commitment to high-quality implementation set us apart. PathTECH delivers tailored solutions that meet the highest standards of excellence. Our partnership with top-tier technology Companies who own the highest reputation for reliability makes us the preferred choice for organizations seeking quality results."
+  },
+  "service": {
+    "OurService": "Our Services",
+    "title": "We offer a range of exceptional services designed to shape your vision and create unique experiences that stand out.",
+    "serv1": "Project Management Consulting",
+    "serv2": "PMO Setup",
+    "serv3": "Tenders & Bids",
+    "serv4": "Training & Coaching",
+    "serv5": "PPM (SaaS)",
+    "serv6": "Citizen Developer",
+    "detailsol1": "Our expert consultants offer top-tier project management consulting services, ensuring streamlined workflows, efficient resource utilization, and successful project delivery, all while prioritizing sustainable practices.",
+    "detailsol2": "Transform your projects with our expert Project Management Office (PMO) setup, ensuring streamlined processes and optimal project delivery. Harness our proven methodologies to drive efficiency and success across your organization.",
+    "detailsol3": "Empower your projects with our owner-focused bid management solutions & RFP designed to streamline procurement processes and enhance project outcomes. Trust us to navigate the complexities of bidding, ensuring cost-efficiency and quality in every project endeavor.",
+    "detailsol4": "Unlock your team’s full potential with our comprehensive Project Management training programs from world-class authorized providers PMI & AXELOS, equipping them with essential skills and strategies for successful project delivery. Elevate your organization’s project execution capabilities and drive sustainable growth with our tailored training solutions.",
+    "detailsol5": "Maximize your project portfolio’s efficiency and success with our intuitive Portfolio Project Management (PPM) SaaS applications like Smartsheet, Procure, ClickUp, and more. Harness the power of data-driven insights and streamlined workflows to optimize resource allocation and drive strategic decision-making",
+    "detailsol6": "Empower your team to create custom applications, automate workflows, and derive actionable insights, driving innovation and efficiency across your organization with our comprehensive services utilizing Microsoft Power Apps, Power Automate, and Power BI."
+  },
+  "partner": "Key Partners",
+  "aboutPage": {
+    "title1": "Technological Excellence",
+    "title2": "Commitment to Innovation",
+    "title3": "Transforming Industries",
+    "title4": "Improving Lives",
+    "text1": "At PathTech, we are driven by a singular vision: to become the leading force in advanced technology across Saudi Arabia. Our commitment is to innovate and provide exceptional technological solutions that transform industries and improve lives.",
+    "text2": "Complying with Saudi’s Vision 2030, PathTech’s dedication to innovation is unwavering. We invest heavily in research and development to stay ahead of the curve, ensuring our products and services are at the forefront of technological advancements. Our team of experts continuously explores new frontiers, pushing the boundaries of what is possible.",
+    "text3": "We aim to revolutionize various sectors by integrating cutting-edge technology into everyday processes. From healthcare to finance, our solutions are designed to enhance efficiency, security, and productivity, creating a more connected and advanced society in Saudi Arabia.",
+    "text4": "Beyond industry transformation, PathTech is dedicated to improving the quality of life for individuals. Our technologies aim to provide better healthcare, smarter cities, and more sustainable practices, ensuring that every citizen can experience the benefits of our innovations."
+  },
+  "value": {
+    "value": "Our Value Proposition",
+    "valueText": "Experience Innovation and Excellence with PathTECH’s Unique Solutions",
+    "value1": "Innovative Solutions",
+    "value2": "Industry Collaboration",
+    "value3": "Exceptional Services",
+    "valueText1": "PathTECH offers cutting-edge solutions in Datacenter & Networking, Video Conference Systems, and Security, tailored to meet your business needs and ensure success.",
+    "valueText2": "Collaborating with technological leaders like Cisco, Huawei, and CommScope, PathTECH ensures top-notch quality and expertise in every project, setting new industry standards.",
+    "valueText3": "From Project Management Consultancy to Training & Coaching, PathTECH delivers exceptional services that transform visions into reality and drive business growth."
+  },
+  "stratPage": {
+    "title1": "Business Strategy",
+    "title2": "Automation & Collaboration",
+    "title3": "Microsoft Services",
+    "title4": "Certification",
+    "text1": "Crafting a successful business strategy is essential for navigating today’s competitive landscape. At PathTECH , we specialize in Strategic Management, Process Optimization, KPI implementation, and LMS integration. Our tailored solutions help businesses thrive by setting clear objectives, streamlining workflows, tracking performance metrics effectively, and delivering engaging training programs. Partner with us to elevate your business strategy and drive sustainable growth.",
+    "text2": "Automation and collaboration are essential for boosting efficiency in the modern business world. Utilizing tools like Smartsheet, ProCore, Zoho, Adobe, DocuSign, Miro, Lucidchart, and RPA services streamlines processes and enhances teamwork. These platforms enable real-time project management, task tracking, and communication across teams and industries. By integrating these automation solutions with a collaborative approach, organizations can drive innovation and achieve operational excellence in a competitive market.",
+    "text3": "It offers a dynamic suite for business enhancement. Office 365 and SharePoint foster collaboration and productivity. Power BI empowers insightful data analysis for informed decision-making. Citizen developers innovate with Power Apps, creating custom solutions effortlessly. Process Automation is streamlined through Power Automate, saving time and resource.",
+    "text4": "Certifications such as ISO 9001:2018, ISO 27001, and ISO 45001 reflect commitment to quality, security, and safety standards. ISO 9001:2018 ensures consistent delivery of products or services meeting customer expectations. ISO 27001 focuses on information security management, guarding against cyber threats and data breaches. ISO 45001 prioritizes occupational health and safety, fostering a secure work environment. Achieving these certifications signifies adherence to international standards, enhancing organizational reputation and trust."
+  }
+}

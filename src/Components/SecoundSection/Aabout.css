@@ -1,0 +1,23 @@
+/* Light Mode Gradient */
+.light-mode-text-gradient {
+  /* background: linear-gradient(to right, #105abf, #030b3d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+  color: #030b3d !important;
+  font-weight: bold;
+  font-family: 'Cocon', sans-serif;
+                                                
+}
+
+/* Dark Mode Gradient */
+.dark-mode-text-gradient {
+  /* background: linear-gradient(to right, #8eeffd, #1e3351);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+  color: #d8faff !important;
+  font-weight: bold;
+  font-family: 'Cocon', sans-serif;
+                                                
+}
+
+/* Optional: Add additional styles to control font size or weight if needed */

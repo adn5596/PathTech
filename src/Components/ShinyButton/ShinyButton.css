@@ -1,0 +1,45 @@
+/* زر اللمعان */
+.shiny-btn {
+  padding: 6px 12px;
+  font-size: 12px;
+  color: white;
+  background-color: #105abf;
+  border: none;
+  border-radius: 50px;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+/* إنشاء خط اللمعان المتحرك */
+.shiny-btn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -150%; /* بدء اللمعان من خارج الزر */
+  width: 10%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.5); /* لون الخط الأبيض */
+  transform: skewX(-20deg); /* إمالة الخط لجعله مائل */
+  transition: all 0.5s ease-in-out;
+  animation: shine 2s infinite; /* اللمعان يتحرك بشكل مستمر */
+}
+
+@keyframes shine {
+  0% {
+    left: -150%;
+  }
+  50% {
+    left: 100%; /* يتحرك الخط عبر الزر */
+  }
+  100% {
+    left: -150%; /* يعيد الخط إلى نقطة البداية */
+  }
+}
+
+.shiny-btn:hover {
+  background-color: #0d47a1; /* تغيير لون الزر عند التمرير */
+}

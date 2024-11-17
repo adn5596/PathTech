@@ -1,0 +1,32 @@
+/* Floating button styles */
+.back-to-top {
+  position: fixed;
+  bottom: 40px; /* Distance from the bottom of the screen */
+  right: 40px; /* Distance from the right of the screen */
+  background-color: #007bff; /* Button background color */
+  color: white; /* Button text/icon color */
+  border: none;
+  border-radius: 50%; /* Circle button */
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow */
+  z-index: 1000; /* Ensure it stays on top */
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.back-to-top:hover {
+  background-color: #0056b3; /* Darken button on hover */
+}
+
+.back-to-top:active {
+  transform: scale(0.9); /* Shrink button slightly on click */
+}
+
+.back-to-top.hide {
+  opacity: 0; /* Optionally fade out */
+  visibility: hidden;
+}

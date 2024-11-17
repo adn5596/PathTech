@@ -1,0 +1,24 @@
+/* Global Custom Scrollbar Styles */
+body {
+  background-color: hsla(235, 0%, 100%, 0.78);
+  /* background-image: radial-gradient(
+      at 100% 100%,
+      rgb(47, 61, 224) 0px,
+      transparent 50%
+    ),
+    radial-gradient(at 0% 0%, #071466 0px, transparent 50%); */
+}
+
+::-webkit-scrollbar {
+  width: 10px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #c1c1c1; /* Background color of the scrollbar track */
+  border-radius: 5px; /* Round edges of the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #9dabd1; /* Color of the scrollbar thumb */
+  border-radius: 5px; /* Round edges of the scrollbar thumb */
+}

@@ -1,0 +1,11 @@
+/* Light Mode Text */
+.light-mode-text {
+  color: #030b3d; /* Example light mode text color */
+}
+
+/* Dark Mode Text */
+.dark-mode-text {
+  color: #ffffff; /* Example dark mode text color */
+}
+
+/* Additional styles for dark and light mode if needed */
